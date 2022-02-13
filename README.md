@@ -60,3 +60,7 @@ SO THAT I can organize my thoughs and keep track of tasks I need to complete
 ## My note taker screenshot/gif
 
 ![Note Taker](./img/Note%20Taker.gif)
+
+## link to heroku link
+
+[heroku Link](https://dk-proj-note-taker.herokuapp.com/)
